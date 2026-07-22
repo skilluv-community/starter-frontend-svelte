@@ -6,16 +6,20 @@
 <p class="text-slate-400 mb-8">{lang.t.tagline}</p>
 
 <section class="grid grid-cols-1 md:grid-cols-2 gap-4">
-  <a href="/counter" class="rounded border border-slate-800 p-4 hover:border-emerald-600 transition-colors">
+  <a
+    href="/counter"
+    class="rounded border border-slate-800 p-4 hover:border-emerald-600 transition-colors"
+  >
     <h2 class="font-semibold mb-1">{lang.t.nav_counter}</h2>
     <p class="text-sm text-slate-400">
       $state, $derived, cross-page shared store — the smallest useful runes demo.
     </p>
   </a>
-  <a href="/api-demo" class="rounded border border-slate-800 p-4 hover:border-emerald-600 transition-colors">
+  <a
+    href="/api-demo"
+    class="rounded border border-slate-800 p-4 hover:border-emerald-600 transition-colors"
+  >
     <h2 class="font-semibold mb-1">{lang.t.nav_api}</h2>
-    <p class="text-sm text-slate-400">
-      Public API fetch with loading / error handling.
-    </p>
+    <p class="text-sm text-slate-400">Public API fetch with loading / error handling.</p>
   </a>
 </section>
