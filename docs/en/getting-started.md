@@ -19,17 +19,17 @@ Vite serves the app at <http://localhost:5173> with HMR.
 
 ## Available scripts
 
-| Command | What it does |
-|---|---|
-| `npm run dev` | Vite dev server, HMR enabled |
-| `npm run build` | Static production build under `build/` |
-| `npm run preview` | Serve the production build at :4173 |
-| `npm run check` | Type-check with `svelte-check` |
-| `npm run lint` | ESLint + Prettier |
-| `npm run format` | Prettier auto-fix |
-| `npm run test:unit` | Vitest |
-| `npm run test:e2e` | Playwright (builds then previews then hits :4173) |
-| `npm run test` | unit + e2e |
+| Command             | What it does                                      |
+| ------------------- | ------------------------------------------------- |
+| `npm run dev`       | Vite dev server, HMR enabled                      |
+| `npm run build`     | Static production build under `build/`            |
+| `npm run preview`   | Serve the production build at :4173               |
+| `npm run check`     | Type-check with `svelte-check`                    |
+| `npm run lint`      | ESLint + Prettier                                 |
+| `npm run format`    | Prettier auto-fix                                 |
+| `npm run test:unit` | Vitest                                            |
+| `npm run test:e2e`  | Playwright (builds then previews then hits :4173) |
+| `npm run test`      | unit + e2e                                        |
 
 ## Deploying
 

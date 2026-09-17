@@ -2,7 +2,10 @@
 
 Welcome to your first Skilluv project!
 
+You are here because your trade shapes interfaces - the *design* families, plus *dev-frontend*. Svelte is the Skilluv-signature UI environment, and its first contribution surface is assets, animation and motion tokens.
+
 Edit this file by adding a line under `## My introduction` with:
+
 - Your first name or handle
 - Your city (optional)
 - What you want to learn
@@ -17,7 +20,10 @@ Skilluv will automatically detect your PR and unlock your first badge.
 
 Bienvenue dans ton premier projet Skilluv !
 
+Tu es ici parce que ton métier façonne des interfaces - les familles *design*, plus *dev-frontend*. Svelte est l'environnement UI signature de Skilluv, et sa première surface de contribution, ce sont les assets, l'animation et les tokens de motion.
+
 Modifie ce fichier en ajoutant une ligne sous `## Ma présentation` avec :
+
 - Ton prénom ou pseudo
 - Ta ville (facultatif)
 - Ce que tu veux apprendre
